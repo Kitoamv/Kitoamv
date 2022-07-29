@@ -21,6 +21,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JV" height="30" width="40" src="https://bk.ibxk.com.br/2014/04/24/24124942327217.jpg">
+  <img align="center" alt="JV" height="30" width="30" src="https://miro.medium.com/max/300/1*LXRfVdPeqTgnul2w7yJK3Q.jpeg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/49178238?v=4">
 </div>
